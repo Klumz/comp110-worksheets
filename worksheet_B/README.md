@@ -1,4 +1,4 @@
-(Not entirely sure about the formatting here, but I hope it's fairly understandable. Also sorry if I did the "Pull request" wrong.)
+(Not entirely sure about the formatting here, but I hope it's fairly understandable. Also sorry if I did the "Pull request" wrong. Still getting the hang of Github.)
 
 PSEUDOCODE:
 
