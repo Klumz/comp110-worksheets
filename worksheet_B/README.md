@@ -1,4 +1,4 @@
-Pseudocode:
+PSEUDOCODE:
 
 Insert word
 
@@ -19,7 +19,7 @@ print "TERMINAL LOCKED"
 
 
 
-Flowchart: ![alt tag](https://i.imgur.com/v1GjlIc.png)
+FLOWCHART: ![alt tag](https://i.imgur.com/v1GjlIc.png)
 
 
 
