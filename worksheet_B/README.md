@@ -1,3 +1,5 @@
+(Not entirely sure about the formatting here, but I hope it's fairly understandable.)
+
 PSEUDOCODE:
 
 Insert word
