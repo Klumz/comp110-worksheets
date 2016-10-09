@@ -1,20 +1,20 @@
 Pseudocode:
 
-  Insert word
+Insert word
 
-  if correct guess
+if correct guess
 
     Access granted
    
-  elif
+elif
 
     subtract attempts remaining by 1
    
-  else
+else
 
     end minigame when no attempts remain
    
-  print "TERMINAL LOCKED"
+print "TERMINAL LOCKED"
 
 
 
