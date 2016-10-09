@@ -1,3 +1,5 @@
-![alt tag](https://i.imgur.com/v1GjlIc.png)
+PSEUDOCODE IN PROGRESS
 
-Pseudocode in progress
+Flowchart: ![alt tag](https://i.imgur.com/v1GjlIc.png)
+
+
