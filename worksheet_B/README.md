@@ -2,13 +2,21 @@ PSEUDOCODE:
 
 ```
 Insert word
+
 if correct guess
-    Access granted   
+
+    Access granted 
+    
 elif
+
     subtract attempts remaining by 1   
+    
 else
+
     end minigame when no attempts remain   
+    
 print "TERMINAL LOCKED"
+
 ```
 
 
