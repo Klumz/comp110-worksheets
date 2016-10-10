@@ -1,27 +1,19 @@
-(Not entirely sure about the formatting here, but I hope it's fairly understandable. Also sorry if I did the "Pull request" wrong. Still getting the hang of Github.)
-
 PSEUDOCODE:
 
+```
 Insert word
-
 if correct guess
-
-    Access granted
-   
+    Access granted   
 elif
-
-    subtract attempts remaining by 1
-   
+    subtract attempts remaining by 1   
 else
-
-    end minigame when no attempts remain
-   
+    end minigame when no attempts remain   
 print "TERMINAL LOCKED"
+```
 
 
 
-
-FLOWCHART: ![alt tag](https://i.imgur.com/v1GjlIc.png)
+FLOWCHART: ![fo4 flowchart](https://i.imgur.com/v1GjlIc.png)
 
 
 
