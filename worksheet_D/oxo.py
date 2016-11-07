@@ -1,16 +1,16 @@
 class OxoBoard:
-    def __init__(self):
-        """ The initialiser. Initialise any fields you need here. """
-        raise NotImplementedError("TODO: implement __init__")
+    def __init__(self, x, y):
+        self.board = {(0, 0): 0, (0, 1): 0, (0, 2): 0, (1, 0): 0, (2, 0): 0, (1, 1): 0, (2, 2): 0, (1, 2): 0, (2, 1): 0}
 
     def get_square(self, x, y):
-        """ Return 0, 1 or 2 depending on the contents of the specified square. """
-        raise NotImplementedError("TODO: implement get_square")
+        return self.board[x, y]
 
     def set_square(self, x, y, mark):
-        """ If the specified square is currently empty (0), fill it with mark and return True.
-            If the square is not empty, leave it as-is and return False. """
-        raise NotImplementedError("TODO: implement set_square")
+        if self.board[x, y] == 0:
+            self.board[x, y] = mark
+            return True
+        else:
+            return False
 
     def is_board_full(self):
         """ If there are still empty squares on the board, return False.
