@@ -1,5 +1,5 @@
 class OxoBoard:
-    def __init__(self, x, y):                           #Initialize and define board
+    def __init__(self, x, y):               #Initialize and define board
         self.board = {(0, 0): 0, (0, 1): 0, (0, 2): 0, (1, 0): 0, (2, 0): 0, (1, 1): 0, (2, 2): 0, (1, 2): 0, (2, 1): 0}
 
     def get_square(self, x, y):             #Returns current value of the current position
