@@ -9,7 +9,7 @@ while s3 != 0:
 ```
 
 ### b) 
-s2's value increases depending on s1's value, meaning that it would be multiplied by s1, s0 times. 
+Because s2's value increases depending on s1's value, meaning that it would be multiplied by s1, s0 times.
 
 ### c)
 ```
