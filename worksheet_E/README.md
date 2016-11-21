@@ -25,11 +25,12 @@ while s0 != 0:
   s0 -= 1
 ```
 
-e)      ```
+e)     
+```
         addi $s0, $zero, 10
         addi $s1, $zero, 1
 inner:  mult $s1, $s0
         mflo $s1
         addi $s0, $s0, -1
         bne $s0, $zero, inner
-        ```
+```
