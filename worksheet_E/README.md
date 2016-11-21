@@ -1,10 +1,12 @@
 a)
+'''
 s2 = 0
 s3 = 0
 
 while s3 != 0:
   s2 += s1
   s3 -= 1
+'''
 
 b) s2's value increases depending on s1's value, meaning that it would be multiplied by s1, s0 times. 
 
